@@ -1,7 +1,5 @@
-# angualr select box 
-1. ...
+# ionic cordova build
 
-## ionic cordova build
 > android setting
 
 #### 1. java JDK
@@ -19,5 +17,7 @@
 ```$sudo chmod 755 /Users/<your ionic project path>/platforms/android/gradlew```
 
 
-## about [class.active]
+
+## [class.active]
+
 클릭을 했을때 나타나는 클래스가 적용된다.

@@ -1,9 +1,6 @@
-# angular, ionic life cycle hook
+# subscribe
 
-
-# 왜 이렇게 해야하는가?
-### - subscribe에 대하여
-```
+```typescript
 res:any = {
     downloadUrl:'',
     version:''
